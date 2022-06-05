@@ -1,5 +1,5 @@
 {
-  "name": "react-storybook-1",
+  "name": "react-storybook-ts",
   "private": true,
   "version": "0.0.1",
   "scripts": {
@@ -16,13 +16,13 @@
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",
-    "@storybook/addon-actions": "^6.4.22",
-    "@storybook/addon-essentials": "^6.4.22",
-    "@storybook/addon-interactions": "^6.4.22",
-    "@storybook/addon-links": "^6.4.22",
+    "@storybook/addon-actions": "^6.5.6",
+    "@storybook/addon-essentials": "^6.5.6",
+    "@storybook/addon-interactions": "^6.5.6",
+    "@storybook/addon-links": "^6.5.6",
     "@storybook/addon-postcss": "^2.0.0",
-    "@storybook/builder-vite": "^0.1.30",
-    "@storybook/react": "^6.4.22",
+    "@storybook/builder-vite": "^0.1.36",
+    "@storybook/react": "^6.5.6",
     "@storybook/testing-library": "^0.0.11",
     "@tailwindcss/aspect-ratio": "^0.4.0",
     "@tailwindcss/forms": "^0.5.0",
