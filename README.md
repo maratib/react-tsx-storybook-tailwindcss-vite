@@ -11,6 +11,9 @@ yarn storybook
 
 ## Resources:
 
-`VSCode` useful extensions for storybook with React
+`VSCode` useful extensions for storybook/React
 
-[Storybook-helper](https://marketplace.visualstudio.com/items?itemName=riccardoforina.storybook-helper)
+[Storybook-snippets](https://marketplace.visualstudio.com/items?itemName=maratib.xpro-snippets)  
+`sb-react`
+
+
