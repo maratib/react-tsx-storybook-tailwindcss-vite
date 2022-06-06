@@ -1465,7 +1465,7 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
-"@storybook/addon-actions@6.5.7", "@storybook/addon-actions@^6.5.6":
+"@storybook/addon-actions@6.5.7", "@storybook/addon-actions@^6.5.7":
   version "6.5.7"
   resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-6.5.7.tgz#0280a994f42e80ae7e8b71ccf04cd0279cbce01d"
   integrity sha512-gTkPr2FYX+vySZKEg5Wq7uHPkVUq3hJ7ZKvGls+/xjgaTwfu3iIly53FEFUl8A6kMQ+4gtTC+YRr3cSJgXMbAg==
@@ -1561,7 +1561,7 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/addon-essentials@^6.5.6":
+"@storybook/addon-essentials@^6.5.7":
   version "6.5.7"
   resolved "https://registry.yarnpkg.com/@storybook/addon-essentials/-/addon-essentials-6.5.7.tgz#455b754f79399f0dcf7409b8a45ccae9b6433bab"
   integrity sha512-JZ80W9PgZOEUp2SjhBYyYHxQduxSIe4n9Wdoy8XDtV28152jDNms6UPjFeEVb+a9rVybYOwWnOnEhBWF6ZfJ/g==
@@ -1582,7 +1582,7 @@
     regenerator-runtime "^0.13.7"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-interactions@^6.5.6":
+"@storybook/addon-interactions@^6.5.7":
   version "6.5.7"
   resolved "https://registry.yarnpkg.com/@storybook/addon-interactions/-/addon-interactions-6.5.7.tgz#b4a72609789e5b71f7bb39e912d83aa26bd33a4a"
   integrity sha512-Z4lvVb0xE/JydwHE9wMFHlK4SkW2N84SngNJRF7jU+Z3X1HSMJVap8sen9KzczCuK8y7vGQ2QyYDq+tQJfoU3w==
@@ -1603,7 +1603,7 @@
     polished "^4.2.2"
     ts-dedent "^2.2.0"
 
-"@storybook/addon-links@^6.5.6":
+"@storybook/addon-links@^6.5.7":
   version "6.5.7"
   resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-6.5.7.tgz#b3a794b19c5c0277c3f20f86915c851f577dc45b"
   integrity sha512-kiCzGLlCyhfBjwYfM/xACe5l6s2+8exQNOGoLzNeAhprgD7dzpsZ0ZaEgpF4ay9bG9H9gOeX4jc/TAvVW/v6nw==
@@ -2197,7 +2197,7 @@
     react-docgen-typescript "^2.1.1"
     tslib "^2.0.0"
 
-"@storybook/react@^6.5.6":
+"@storybook/react@^6.5.7":
   version "6.5.7"
   resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.5.7.tgz#70224ddd150f31fc1cb0e2f7bf9ba56657f38644"
   integrity sha512-jMY1vk1WL1otEODl5BxD1kSh5Eqg+SvZW5CJ7sS6q53i3teOhaGhugvuSTuV9lnBzLOZu8atIdFL0ewdOkpwsg==

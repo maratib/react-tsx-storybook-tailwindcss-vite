@@ -7,6 +7,10 @@
 ```bash
 yarn
 yarn storybook
+
+# upgrade storybook to latest version
+npx storybook@latest upgrade
+
 ```
 
 ## Resources:
